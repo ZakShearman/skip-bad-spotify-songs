@@ -1,0 +1,6 @@
+spotify:
+  client-id: "change me"
+  client-secret: "change me"
+  redirect-uri: "change me"
+  block-playlist-ids:
+    - "27dz5ue6RR1moQeRrhuhGr"
